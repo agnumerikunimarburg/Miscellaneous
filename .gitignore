@@ -24,6 +24,7 @@
 *.lib
 
 # Executables
-*.exe
+subdivision/*.exe
+Visualize_Spline_wavelets/*.exe
 *.out
 *.app
