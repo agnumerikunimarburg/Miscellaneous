@@ -1,3 +1,5 @@
+*.m
+
 # Compiled Object files
 *.slo
 *.lo
@@ -28,3 +30,5 @@ subdivision/*.exe
 Visualize_Spline_wavelets/*.exe
 *.out
 *.app
+
+subdivision/subdivision
